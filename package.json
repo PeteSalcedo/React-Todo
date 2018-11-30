@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/PeteSalcedo/React-Todo/issues"
   },
-  "homepage": "https://github.com/PeteSalcedo/React-Todo#readme"
+  "homepage": "https://github.com/PeteSalcedo/React-Todo#readme",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
